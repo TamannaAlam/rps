@@ -32,9 +32,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or encounter any issues, feel free to reach out:
 
-- Author: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Author: [Tamanna Alam]
+- Email: [kazitamannat1@gmail.com]
+
 
 ## Acknowledgments
 
